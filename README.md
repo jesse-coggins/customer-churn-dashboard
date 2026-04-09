@@ -46,5 +46,6 @@ The visual flow is designed to answer:
 
 ## Included Files
 - `tableau/customer_churn_dashboard.twbx` as the local source workbook
+- `data/telecom_churn.csv` — source dataset, 10,000 customer records with churn labels, contract type, payment method, charges, and geography
 - `assets/README.md`
 - `requirements.txt`
