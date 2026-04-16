@@ -49,7 +49,3 @@ The visual flow is designed to answer:
 - `data/telecom_churn.csv` — source dataset, 10,000 customer records with churn labels, contract type, payment method, charges, and geography
 - `assets/README.md`
 - `requirements.txt`
-
----
-
-*\* I used Claude (Anthropic) to help organize and stage this coursework into a GitHub portfolio repository. The analysis, code, and results are entirely my own.*
